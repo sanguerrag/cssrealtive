@@ -1,0 +1,17 @@
+.red {
+  height: 100px;
+  width: 100px;
+  background-color: red;
+  position: absolute;
+  right: 20px;
+}
+.blue {
+  height: 100px;
+  width: 100px;
+  background-color: blue;
+}
+.pink {
+  height: 100px;
+  width: 100px;
+  background-color: pink;
+}
